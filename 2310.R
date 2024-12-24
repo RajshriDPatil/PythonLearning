@@ -5,6 +5,3 @@ p2=dnorm(x,shape=0,scale=1);p2
 plot(p1,main=c("normal and cauchy"),col=c("black"));
 lines(p2,col=c("black"));
 legend("toplight")
-
-
-Vinit
